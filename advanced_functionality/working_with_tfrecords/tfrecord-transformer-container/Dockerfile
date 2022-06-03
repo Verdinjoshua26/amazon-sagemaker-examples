@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM python:3.11.0b1
 
 LABEL com.amazonaws.sagemaker.capabilities.accept-bind-to-port=true
 
