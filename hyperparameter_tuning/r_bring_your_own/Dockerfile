@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20201014
 
 MAINTAINER Amazon SageMaker Examples <amazon-sagemaker-examples@amazon.com>
 
